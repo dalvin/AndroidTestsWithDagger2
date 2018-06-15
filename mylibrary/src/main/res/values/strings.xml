@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">My Library</string>
+
+  <string name="hello_library_fragment">Hello Library Fragment</string>
+</resources>
